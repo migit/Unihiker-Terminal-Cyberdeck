@@ -13,3 +13,15 @@ A portable cyberdeck-style terminal using the UniHiker board.
 Run:
 ```bash
 a2r3
+
+## Toggle GUI:
+gui-toggle
+
+## Launch dashboard:
+deck_dashboard
+
+
+---
+
+
+
