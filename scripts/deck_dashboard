@@ -1,0 +1,11 @@
+#!/bin/bash
+
+tmux has-session -t deck 2>/dev/null && tmux kill-session -t deck
+
+tmux new-session -d -s deck 'watch -n2 "neofetch --ascii_distro tiny"'
+tmux split-window -h -t deck 'htop'
+tmux split-window -v -t deck:0.0 'bmon'
+tmux split-window -v -t deck:0.1 'tail -f /var/log/syslog'
+
+tmux select-layout tiled
+tmux attach -t deck

@@ -1,0 +1,15 @@
+#!/bin/bash
+# UniHiker setup script
+
+# Local vs SSH detection
+if [[ -n "$SSH_CONNECTION" ]]; then
+    clear
+    echo -ne "\033]10;#FFFFFF\007"
+    echo -ne "\033]11;#000000\007"
+else
+    setterm --background yellow --foreground white --clear
+    clear
+    neofetch --ascii_distro tiny
+fi
+
+echo "a2r3 setup complete!"

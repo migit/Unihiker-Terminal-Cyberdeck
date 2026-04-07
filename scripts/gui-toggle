@@ -1,0 +1,13 @@
+#!/bin/bash
+
+SERVICE="lightdm"
+
+if systemctl is-active --quiet $SERVICE; then
+    echo "Switching to terminal mode..."
+    sudo systemctl stop $SERVICE
+    sudo systemctl set-default multi-user.target
+else
+    echo "Switching to GUI mode..."
+    sudo systemctl set-default graphical.target
+    sudo systemctl start $SERVICE
+fi
