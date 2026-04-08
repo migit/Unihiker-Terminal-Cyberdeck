@@ -6,11 +6,10 @@
 ![Last Commit](https://img.shields.io/github/last-commit/migit/Unihiker-Terminal-Cyberdeck)
 
 ![Repo Size](https://img.shields.io/github/repo-size/migit/Unihiker-Terminal-Cyberdeck)
-
-![Languages](https://img.shields.io/github/languages/top/migit/Unihiker-Terminal-Cyberdeck)
 ![Code Size](https://img.shields.io/github/languages/code-size/migit/Unihiker-Terminal-Cyberdeck)
-![Contributors](https://img.shields.io/github/contributors/migit/Unihiker-Terminal-Cyberdeck)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/migit/Unihiker-Terminal-Cyberdeck)
+![Languages](https://img.shields.io/github/languages/top/migit/Unihiker-Terminal-Cyberdeck)
+
+
 
 A portable cyberdeck-style terminal using the UniHiker board.
 
