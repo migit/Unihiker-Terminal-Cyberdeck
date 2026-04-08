@@ -60,8 +60,6 @@ Instead of forcing it into a role it cannot handle, this project reimagines the 
 sudo apt update
 sudo apt install tmux htop bmon
 
-
----
 ```
 
 Clone repo:
