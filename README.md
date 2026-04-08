@@ -1,7 +1,11 @@
 # UNIHIKER Terminal-Cyberdeck
+### A Portable SSH Terminal & Mini Control Station
 
+A compact cyberdeck-style terminal built on the UniHiker M10.
 
-## 🎥 Demo
+This project transforms the board into a fast, minimal Linux device that boots directly into a custom terminal and acts as a portable SSH control station for more powerful systems.
+
+## 🎥 Preview
 
 [![Unihiker Terminal Cyberdeck Demo](https://img.youtube.com/vi/Gawl7apVdLo/0.jpg)](https://www.youtube.com/watch?v=Gawl7apVdLo&t=105s)
 
@@ -29,26 +33,87 @@ A portable cyberdeck-style terminal using the UniHiker board.
 </div>
 
 ## Features
-- Fast terminal boot
-- GUI toggle
-- SSH control station
-- Custom terminal themes
-- Live dashboard
 
-## Usage
-Run:
+- Fast terminal boot (no GUI overhead)
+- GUI toggle (switch between CLI and desktop)
+- SSH control station (remote system management)
+- Custom terminal themes (local vs SSH optimized)
+- Live dashboard (tmux-based monitoring)
+
+## Why?
+
+The UniHiker is not powerful enough to run heavy frameworks like ROS efficiently.
+
+Instead of forcing it into a role it cannot handle, this project reimagines the device as a dedicated interface a lightweight terminal designed to control more powerful machines remotely.
+
+## How It Works
+
+- The system boots into a lightweight terminal environment
+- Custom `.bashrc` handles UI and behavior
+- Local terminal uses framebuffer colors (`setterm`)
+- SSH sessions use ANSI color reset
+- Tools like `tmux` create a multi-pane dashboard
+
+##  Setup
+
 ```bash
-a2r3
-
-## Toggle GUI:
-gui-toggle
-
-## Launch dashboard:
-deck_dashboard
+sudo apt update
+sudo apt install tmux htop bmon
 
 
 ---
+```
 
+Clone repo:
+```bash
+git clone https://github.com/yourname/unihiker-cyberdeck
+cd unihiker-cyberdeck
+```
 
+Run setup:
+```bash
+sudo chmod +x scripts/a2r3
+./scripts/a2r3
+```
 
+Toggle GUI:
+```bash
+gui-toggle
+```
 
+Launch dashboard:
+```bash
+deck_dashboard
+```
+
+##  Hardware & Case
+
+This project includes a custom 3D-printed case designed for:
+- Secure mounting of the UniHiker board
+- Easy access to ports
+- Improved ergonomics for handheld use
+
+Download the STL files from [here](https://www.thingiverse.com/thing:7331105)
+
+## Use Cases
+
+- Portable SSH terminal
+- Remote server management
+- Embedded system debugging
+- Network diagnostics tool
+- Robot control interface (I have used it to control my mobile robot a2r3, so do not be suprised if you encounter this shell script name)
+- Field deployment terminal
+
+## Future Improvements
+
+- Custom boot animation
+- Expanded dashboard features
+- 3D printed Sensor attachment modules (plug and play type)
+
+## Disclaimer
+
+This project is built on the UniHiker platform.
+No proprietary firmware or OS images are redistributed.
+
+## License
+MIT License
