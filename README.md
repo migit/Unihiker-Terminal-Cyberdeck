@@ -1,20 +1,11 @@
 # UNIHIKER Terminal-Cyberdeck
 
 
+## 🎥 Demo
+
+[![Unihiker Terminal Cyberdeck Demo](https://img.youtube.com/vi/Gawl7apVdLo/0.jpg)](https://www.youtube.com/watch?v=Gawl7apVdLo&t=105s)
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/4c5d999f-46ab-4ee6-bf89-37572c630b11" width="300"/></td>
-      <td><img src="https://github.com/user-attachments/assets/827f1017-5919-4275-960b-efdade0305c3" width="300"/></td>
-    </tr>
-    <tr>
-      <td><img src="IMAGE_URL_3" width="300"/></td>
-      <td><img src="IMAGE_URL_4" width="300"/></td>
-    </tr>
-  </table>
-</div>
 
 
 ![Release](https://img.shields.io/github/v/release/migit/Unihiker-Terminal-Cyberdeck)
@@ -25,12 +16,17 @@
 ![Code Size](https://img.shields.io/github/languages/code-size/migit/Unihiker-Terminal-Cyberdeck)
 ![Languages](https://img.shields.io/github/languages/top/migit/Unihiker-Terminal-Cyberdeck)
 
-## 🎥 Demo
-
-[![Unihiker Terminal Cyberdeck Demo](https://img.youtube.com/vi/Gawl7apVdLo/0.jpg)](https://www.youtube.com/watch?v=Gawl7apVdLo&t=105s)
-
 
 A portable cyberdeck-style terminal using the UniHiker board.
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/4c5d999f-46ab-4ee6-bf89-37572c630b11" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/827f1017-5919-4275-960b-efdade0305c3" width="300"/></td>
+    </tr>
+  </table>
+</div>
 
 ## Features
 - Fast terminal boot
@@ -52,6 +48,7 @@ deck_dashboard
 
 
 ---
+
 
 
 
