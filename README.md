@@ -3,11 +3,8 @@
 ![Release](https://img.shields.io/github/v/release/migit/Unihiker-Terminal-Cyberdeck)
 ![License](https://img.shields.io/github/license/migit/Unihiker-Terminal-Cyberdeck)
 ![Last Commit](https://img.shields.io/github/last-commit/migit/Unihiker-Terminal-Cyberdeck)
-
 ![Repo Size](https://img.shields.io/github/repo-size/migit/Unihiker-Terminal-Cyberdeck)
 ![Code Size](https://img.shields.io/github/languages/code-size/migit/Unihiker-Terminal-Cyberdeck)
-![Languages](https://img.shields.io/github/languages/top/migit/Unihiker-Terminal-Cyberdeck)
-
 
 
 A compact cyberdeck-style terminal built on the UniHiker M10.
