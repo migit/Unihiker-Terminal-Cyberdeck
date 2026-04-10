@@ -15,17 +15,6 @@ This project transforms the board into a fast, minimal Linux device that boots d
 
 [![Unihiker Terminal Cyberdeck Demo](https://img.youtube.com/vi/Gawl7apVdLo/0.jpg)](https://www.youtube.com/watch?v=Gawl7apVdLo&t=105s)
 
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/1177b546-95e6-4a78-b9e6-0ac33f42713c" width="300"/></td>
-    </tr>
-  </table>
-</div>
-![IMG_20260409_125042150]()
-
 ## Features
 
 - Fast terminal boot (no GUI overhead)
