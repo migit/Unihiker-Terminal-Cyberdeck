@@ -20,11 +20,11 @@ This project transforms the board into a fast, minimal Linux device that boots d
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/4c5d999f-46ab-4ee6-bf89-37572c630b11" width="300"/></td>
-      <td><img src="https://github.com/user-attachments/assets/827f1017-5919-4275-960b-efdade0305c3" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/1177b546-95e6-4a78-b9e6-0ac33f42713c" width="300"/></td>
     </tr>
   </table>
 </div>
+![IMG_20260409_125042150]()
 
 ## Features
 
