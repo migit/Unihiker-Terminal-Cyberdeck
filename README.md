@@ -47,7 +47,7 @@ sudo apt install tmux htop bmon
 
 Clone repo:
 ```bash
-git clone https://github.com/yourname/unihiker-cyberdeck
+git clone https://github.com/migit/Unihiker-Terminal-Cyberdeck.git
 cd unihiker-cyberdeck
 ```
 
