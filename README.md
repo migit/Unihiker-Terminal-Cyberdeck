@@ -80,9 +80,9 @@ Download the STL files from [here](https://www.thingiverse.com/thing:7331105)
 
 - Portable SSH terminal
 - Remote server management
-- Embedded system debugging
+- Embedded system debugging  
 - Network diagnostics tool
-- Robot control interface (I have used it to control my mobile robot a2r3, so do not be suprised if you encounter this shell script name)
+- Robot control interface (I have used it to control my mobile robot [a2r3](https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3), so do not be suprised if you encounter this shell script name)
 - Field deployment terminal
 
 ## Future Improvements
