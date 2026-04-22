@@ -12,11 +12,7 @@ A compact cyberdeck-style terminal built on the UniHiker M10.
 This project transforms the board into a fast, minimal Linux device that boots directly into a custom terminal and acts as a portable SSH control station for more powerful systems.
 
 <img width="1022" height="1236" alt="U-cyberdeck" src="https://github.com/user-attachments/assets/e61228b2-7f7a-4e56-ab26-4189f910fe51" />
-
-
-## 🎥 Preview
-
-[![Unihiker Terminal Cyberdeck Demo](https://img.youtube.com/vi/Gawl7apVdLo/0.jpg)](https://www.youtube.com/watch?v=Gawl7apVdLo&t=105s)
+<img width="100%" height="100%" alt="U-cyberdeck" src="https://img.youtube.com/vi/Gawl7apVdLo/0.jpg" />
 
 
 ## Features
@@ -88,6 +84,11 @@ Download the STL files from [here](https://www.thingiverse.com/thing:7331105)
 - Network diagnostics tool
 - Robot control interface (I have used it to control my mobile robot [a2r3](https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3), so do not be suprised if you encounter this shell script name)
 - Field deployment terminal
+
+## 🎥 Preview
+
+[![Unihiker Terminal Cyberdeck Demo](https://img.youtube.com/vi/Gawl7apVdLo/0.jpg)](https://www.youtube.com/watch?v=Gawl7apVdLo&t=105s)
+
 
 ## Future Improvements
 
