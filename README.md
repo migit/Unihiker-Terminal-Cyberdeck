@@ -1,5 +1,7 @@
 <img width="100%" height="100%" alt="U-cyberdeck-o" src="https://github.com/user-attachments/assets/695e9e64-0662-40ad-8ff9-b9f5764809e4" />
+
 ### A Portable SSH Terminal & Mini Control Station
+
 ![Release](https://img.shields.io/github/v/release/migit/Unihiker-Terminal-Cyberdeck)
 ![License](https://img.shields.io/github/license/migit/Unihiker-Terminal-Cyberdeck)
 ![Last Commit](https://img.shields.io/github/last-commit/migit/Unihiker-Terminal-Cyberdeck)
