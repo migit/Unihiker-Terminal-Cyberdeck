@@ -16,7 +16,9 @@ This project transforms the board into a fast, minimal Linux device that boots d
 <img width="1022" height="1236" alt="U-cyberdeck-o" src="https://github.com/user-attachments/assets/695e9e64-0662-40ad-8ff9-b9f5764809e4" />
 
 
-<img width="433" height="577" alt="deck-small" src="https://github.com/user-attachments/assets/630726b2-b4eb-4099-8b61-1c1c1975ab48" />
+
+<img width="3072" height="4096" alt="deck-big" src="https://github.com/user-attachments/assets/db534c93-3ea5-4519-8072-a805fd8768da" />
+
 
 ## Features
 
