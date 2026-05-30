@@ -1,4 +1,4 @@
-<img width="100%" height="100%" alt="U-cyberdeck-o" src="https://github.com/user-attachments/assets/695e9e64-0662-40ad-8ff9-b9f5764809e4" />
+<img  alt="U-cyberdeck-o" src="https://github.com/user-attachments/assets/695e9e64-0662-40ad-8ff9-b9f5764809e4" />
 
 ### A Portable SSH Terminal & Mini Control Station
 
@@ -12,8 +12,11 @@
 A compact cyberdeck-style terminal built on the UniHiker M10.
 
 This project transforms the board into a fast, minimal Linux device that boots directly into a custom terminal and acts as a portable SSH control station for more powerful systems.
+<!--
+<img  alt="deck-big" src="https://github.com/user-attachments/assets/41f2bdfa-f169-42e6-90f1-54fbcca95445" />
+-->
 
-<img width="100%" height="100%" alt="deck-big" src="https://github.com/user-attachments/assets/41f2bdfa-f169-42e6-90f1-54fbcca95445" />
+<img width="896" height="1195" alt="uni" src="https://github.com/user-attachments/assets/d37a8ef4-6376-4f88-9339-0044ae3fcbf2" />
 
 
 ## Features
