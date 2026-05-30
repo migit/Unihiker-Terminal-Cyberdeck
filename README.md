@@ -1,5 +1,6 @@
 
 
+
 # UNIHIKER Terminal-Cyberdeck
 ### A Portable SSH Terminal & Mini Control Station
 ![Release](https://img.shields.io/github/v/release/migit/Unihiker-Terminal-Cyberdeck)
@@ -17,7 +18,7 @@ This project transforms the board into a fast, minimal Linux device that boots d
 <img width="1022" height="1236" alt="U-cyberdeck-o" src="https://github.com/user-attachments/assets/695e9e64-0662-40ad-8ff9-b9f5764809e4" />
 -->
 
-<img width="1086" height="1448" alt="uni-deck" src="https://github.com/user-attachments/assets/a617fd29-7c5d-4e55-b73c-abd8dad1a61d" />
+<img width="1024" height="1536" alt="uni-deck" src="https://github.com/user-attachments/assets/17700de6-80d8-4462-b889-e0c2cf074766" />
 
 ## Features
 
