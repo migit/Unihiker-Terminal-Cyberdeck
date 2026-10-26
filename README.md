@@ -1,4 +1,3 @@
-<img  alt="U-cyberdeck-o" src="https://github.com/user-attachments/assets/695e9e64-0662-40ad-8ff9-b9f5764809e4" />
 
 ### A Portable SSH Terminal & Mini Control Station
 
@@ -70,6 +69,9 @@ deck_dashboard
 ```
 
 ##  Hardware & Case
+
+<img  alt="U-cyberdeck-o" src="https://github.com/user-attachments/assets/695e9e64-0662-40ad-8ff9-b9f5764809e4" />
+
 
 This project includes a custom 3D-printed case designed for:
 - Secure mounting of the UniHiker board
